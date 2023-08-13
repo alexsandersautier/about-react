@@ -38,7 +38,7 @@ function App() {
         </section>
       </main>
       <footer className='footer'>
-        <p>Curso de introdução de React JS</p>
+        <p>React JS Introduction Course</p>
       </footer>
     </div>
   );
